@@ -5,7 +5,7 @@
 ## 1. Rekruttering og sammensetning
 
 ## 2. Det første møtet
-hEI HEI
+
 ## 3. Relasjonelle kontrakter
 
 ## 4. Konflikthåndtering
