@@ -8,6 +8,8 @@
 Hei Hei
 ## 3. Relasjonelle kontrakter
 
+## 3. Relasjonelle kontrakter (test)
+
 ## 4. Konflikthåndtering
 
 ## 5. Tidspress og planleggingsfellen
