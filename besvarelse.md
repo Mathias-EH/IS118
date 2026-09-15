@@ -9,7 +9,7 @@
 ## 3. Relasjonelle kontrakter
 
 ## 4. Konflikthåndtering
-hei
+hei hei
 ## 5. Tidspress og planleggingsfellen
 
 ## 6. God kommunikasjon
