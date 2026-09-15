@@ -6,7 +6,7 @@
 
 ## 2. Det første møtet
 
-## 3. Relasjonelle kontrakter
+## 3. Relasjonelle kontrakter (test)
 
 ## 4. Konflikthåndtering
 
