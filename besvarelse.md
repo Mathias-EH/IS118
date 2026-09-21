@@ -36,6 +36,31 @@ Sikre en felles forståelse for hva skal gjøre, hvordan skal gjøres for å unn
 Hold en workshop for å øve på konflikhåndtering. I starten eller under prosjektet, lag en fiktiv konflikt med usikkerhet, uenigheter i. Workshop deltagere skal løse konflikten med komme med en beslutning. Gi hverandre kritikk slik deltagere kan ta i mot forslag på forbedring. Etterpå lag en tilbakemelding på hvordan jobbet, hvordan håndtere konflikten, hvordan gjøre neste gang.
 
 ## 5. Tidspress og planleggingsfellen
+En samlet prosess for å håndtere tidspress og planleggingsfellen. Diskuter med nøvendige personer og bli enig om en felles beslutning neste gjøre er i plan.
+
+1. Kartlegg Først hva minimum skal ha krav, identifiser hva vet og hva mangler av bevis.
+Eksempel på finne krav: 
+Målet hva er det ene resultat må løse? Innbyggerbehov hva enklest forklart hva innbygere skal gjøre til slutt? Teknisk gjennomføring hva er enkleste sette i gang? Politisk støtte hva ønsker framtiden er for innbygerne i byen? Økonomi, kommunikasjon...
+
+2. Sette logisk rekkefølge fra start til slutt på gjøre A for få B. Definer årsak og effekt av hvordan har gjort og hva har fått som resultat. Status sammenligne med målet skulle ha, hva har funnet og hva er igjen usikkert ikke løst.
+Eksempel på hva gjøre a for få til målet. Sikre en skritflig politisk støtte. Definer rolle og ansvar. Gjennomfør undersøkelse med innbygere. Lag enkle skisser innbyggere test å bruke. Enkel tekniske krav. Lag en bestilling skjema. Osv...
+
+3. Lag en grundig skjekk på hva vi har og mangler, hvor sikker er kunnskapskildene, hva er risikoen og konsekvens for oppnå mål med det har og ikke har.
+- Årsak til mangler hvorfor mangler informasjon er det tidspress, manglende kunnskap, manglene verktøy?
+- Kildekritikk og sikkert bevisgrunnlag, hva er kilden til gitt informasjon skal skje? Er det bevist? Høyt vi har bevis fra test skal ha. Middels lav bygger på ny antagelser eller utdatert erfaringer. 
+- Påvirkning på målet. Hva skjer dersom tar avgjørelse basert på feil eller mangefull informasjon skal skje? Skaper dette feil leveranse?
+- Hvilken risiko kan skje? Forsinkelser fordi må gjøre på nytt? Teknsik feil løsning? Ingen bruk av innbygere og politikere.
+
+4. Påvirkning og usikkerhet på målet, hva er nøvedig krav og ressurser må priotere for oppnå mål. Ranger forslag i må ha, bør ha, kan vente. 
+- Må ha kritisk krav som absolutt nøvendig for skal ansess som en suksess. Hvis ikke levert så har ikke nådd målet. Må testes for løse får nøvendig informasjon stopper største risikoen.
+- Bør ha viktige elementer øker kvalitet, bedre hvis har men kan utsettes og ikke kritisk, men kan justere tiden tar å levere.
+- Kan vente liten risiko ikke avgjørende.
+  
+5. Ta analysen til konkret handling på hva gjør vi nå.
+- Redusere usikkerhet legg oppgave for hente nøvendig informasjon skal vite og teste antagelser. Eksempel tidlig testing med en prototype av løsning for innbygere for unngå kostand med kode feil løsning, følge opp arbeid hvor er til målet og finn risiko som gjøre ikke oppnår mål.
+- Minste løsning som løser kjerneproblemet og legg i krav. Eksempel enkel side. 
+- Bruker for lang tid på for å starte. Eksempel sett informasjon kun for å starte, lag et spørsmål vil ha svar på og hvordan skal svare og hvem skal gjøre også start. 
+- Sett av for levere med en tidsbegrensing for delleveranse ved å lage en 2 ukers plan forover og 30% ekstra tid for uforsette hendelser, istedenfor mange månders plan.
 
 ## 6. God kommunikasjon
 Opprette god kommunikasjon vil spille en sentral rolle for prosjektteamet sin effektivitet. Dette vil være synlig i forming fasen der man fortsatt etablerer kjennskap til de andre og prosjektetsmål. Erling bør derfor i denne forstand gjøre det tydelig om viktigheten av kommunikasjon som en arbeidsform tidlig. Informasjon bør leveres tydelig, tilgjengelig og forståelig for alle parter. 
