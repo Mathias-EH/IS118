@@ -55,7 +55,7 @@ En samlet prosess for å håndtere tidspress og planleggingsfellen. Diskuter med
 - Bør ha viktige elementer øker kvalitet, bedre hvis har men kan utsettes og ikke kritisk, men kan justere tiden tar å levere.
 - Kan vente liten risiko ikke avgjørende.
   
-5. Ta analysen til konkret handling på hva neste skal gjøre nå. Kom med forslag på hva kan gjøre og ved endringer kan påvirke kostnader, forlengelse av tid og kvalitet til slutt involver nøvendige personer for endelig bekreftelse hva neste skal gjøre nå. 
+5. Ta analysen til konkret handling på hva neste skal gjøre nå. Kom med forslag på hva kan gjøre og ved endringer som kan påvirke kostnader, forlengelse av tid og kvalitet til slutt involver nøvendige personer for endelig bekreftelse hva neste skal gjøre nå. 
 - Redusere usikkerhet legg oppgave for hente nøvendig informasjon skal vite og teste antagelser. Eksempel tidlig testing med en prototype av løsning for innbygere for unngå kostand med kode feil løsning, følge opp arbeid hvor er til målet og finn risiko som gjøre ikke oppnår mål.
 - Minste løsning som løser kjerneproblemet og legg i krav. Eksempel enkel side. 
 - Bruker for lang tid på for å starte. Eksempel sett informasjon kun for å starte, lag et spørsmål vil ha svar på og hvordan skal svare og hvem skal gjøre også start. 
