@@ -25,6 +25,15 @@ Gjensidige forventninger bør også gå innad kontrakten mellom Erling og prosje
 For å oppsummere tror vi dette vil kunne bidra til et mer strukturert og forutsigbart samarbeid mellom Erling og prosjekteieren. Tydelig ansvar, gjensidige forventninger, faste møter og avtalte rutiner for endringer kan styrke tilliten, redusere misforståelser og være med på å skape en bedre relasjon mellom dem underveis i prosjektet. 
 
 ## 4. Konflikthåndtering
+Konflikter kan oppstå pågrunn av uengiheter i leveransen. Etabler faste møter for å diskutere leveransen sammen for sikre alle nøvendige personer er enig for sikre en felles besluttet leveranse. Del leveransen opp i flere mindre deler, hver delleveranse tildel et møte tidspunkt og inviter alle personer nøvendig for vurdere og godskjenne delleveranse. Etter møte dokumenter hva beslutning ble bekreftet ha med videre, send møte dokumentet til alle med i møte sikre er enig med beslutning før blir tatt med videre. 
+
+Definer en klar prosess for å håndtere uengiheter. Involverte håndteres med involverte først med fokus på fakta og målet i delleveransen. Hvis ikke klarer å håndtere konfliktet involveres støtte fra en mer erfaren person som kan hjelpe til å løse konflikter for bestemme endlig beslutning hva skal gjøres. 
+
+Tildel klare roller og ansvar for sikre ved uenigheter slik at denn som har rollen har siste bekreftelsen for hva svaret blir for sitt ansvar. Tildel rolle for hele prosjektet og i hver delleveranse. Rollen skal passe personen pålitlig og troverdig til levere. Definer tydligere rolle sitt ansvar med ha med følgene punkter: Hva vil ha, hva vil bruke, hva skal leveres, hvordan skal leveres, gjennomføring, følge opp. Eksempler på roller: Prosjektleder har ansvar for styre leveranse helt til avslutning og tar endelig beslutningen i hver delleveranse. Ux Ui designer ansvar for design og bruker vennlighet. Teknisk ansvarlig for gjennomføring. Bruker ansvar hva innbyggerne vil ha og bruke leveransen. 
+
+Sikre en felles forståelse for hva skal gjøre, hvordan skal gjøres for å unngå usikkerhet og mistillit. Ha en felles oppstart hvor alle er med forstå målet, delleveransen og ansvar sitt. Skriv ned på et felles sted alle har tilgang for neste skal gjøre nå. 
+
+Hold en workshop for å øve på konflikhåndtering. I starten eller under prosjektet, lag en fiktiv konflikt med usikkerhet, uenigheter i. Workshop deltagere skal løse konflikten med komme med en beslutning. Gi hverandre kritikk slik deltagere kan ta i mot forslag på forbedring. Etterpå lag en tilbakemelding på hvordan jobbet, hvordan håndtere konflikten, hvordan gjøre neste gang.
 
 ## 5. Tidspress og planleggingsfellen
 
