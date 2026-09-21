@@ -36,7 +36,7 @@ Sikre en felles forståelse for hva skal gjøre, hvordan skal gjøres for å unn
 Hold en workshop for å øve på konflikhåndtering. I starten eller under prosjektet, lag en fiktiv konflikt med usikkerhet, uenigheter i. Workshop deltagere skal løse konflikten med komme med en beslutning. Gi hverandre kritikk slik deltagere kan ta i mot forslag på forbedring. Etterpå lag en tilbakemelding på hvordan jobbet, hvordan håndtere konflikten, hvordan gjøre neste gang.
 
 ## 5. Tidspress og planleggingsfellen
-En samlet prosess for å håndtere tidspress og planleggingsfellen. Diskuter med nøvendige personer og bli enig om en felles beslutning neste gjøre er i plan.
+En samlet prosess for å håndtere tidspress og planleggingsfellen. Diskuter med nøvendige personer og bli enig om en felles beslutning på neste gjøre inni plan.
 
 1. Kartlegg Først hva minimum skal ha krav, identifiser hva vet og hva mangler av bevis.
 Eksempel på finne krav: 
