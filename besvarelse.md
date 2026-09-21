@@ -39,11 +39,10 @@ Hold en workshop for å øve på konflikhåndtering. I starten eller under prosj
 En samlet prosess for å håndtere tidspress og planleggingsfellen. Diskuter med nøvendige personer og bli enig om en felles beslutning på neste gjøre inni plan.
 
 1. Kartlegg Først hva minimum skal ha krav, identifiser hva vet og hva mangler av bevis.
-Eksempel på finne krav: 
-Målet hva er det ene resultat må løse? Innbyggerbehov hva enklest forklart hva innbygere skal gjøre til slutt? Teknisk gjennomføring hva er enkleste sette i gang? Politisk støtte hva ønsker framtiden er for innbygerne i byen? Økonomi, kommunikasjon...
+- Eksempel på finne krav: Målet hva er det ene resultat må løse? Innbyggerbehov hva enklest forklart hva innbygere skal gjøre til slutt? Teknisk gjennomføring hva er enkleste sette i gang? Politisk støtte hva ønsker framtiden er for innbygerne i byen? Økonomi, kommunikasjon...
 
 2. Sette logisk rekkefølge fra start til slutt på gjøre A for få B. Definer årsak og effekt av hvordan har gjort og hva har fått som resultat. Status sammenligne med målet skulle ha, hva har funnet og hva er igjen usikkert ikke løst.
-Eksempel på hva gjøre a for få til målet. Sikre en skritflig politisk støtte. Definer rolle og ansvar. Gjennomfør undersøkelse med innbygere. Lag enkle skisser innbyggere test å bruke. Enkel tekniske krav. Lag en bestilling skjema. Osv...
+- Eksempel på hva gjøre a for få til målet. Sikre en skritflig politisk støtte. Definer rolle og ansvar. Gjennomfør undersøkelse med innbygere. Lag enkle skisser innbyggere test å bruke. Enkel tekniske krav. Lag en bestilling skjema. Osv...
 
 3. Lag en grundig skjekk på hva vi har og mangler, hvor sikker er kunnskapskildene, hva er risikoen og konsekvens for oppnå mål med det har og ikke har.
 - Årsak til mangler hvorfor mangler informasjon er det tidspress, manglende kunnskap, manglene verktøy?
