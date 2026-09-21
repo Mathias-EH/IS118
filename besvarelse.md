@@ -47,7 +47,7 @@ En samlet prosess for å håndtere tidspress og planleggingsfellen. Diskuter med
 3. Lag en grundig skjekk på hva vi har og mangler, hvor sikker er kunnskapskildene, hva er risikoen og konsekvens for oppnå mål med det har og ikke har.
 - Årsak til mangler hvorfor mangler informasjon er det tidspress, manglende kunnskap, manglene verktøy?
 - Kildekritikk og sikkert bevisgrunnlag, hva er kilden til gitt informasjon skal skje? Er det bevist? Høyt vi har bevis fra test skal ha. Middels lav bygger på ny antagelser eller utdatert erfaringer. 
-- Påvirkning på målet. Hva skjer dersom tar avgjørelse basert på feil eller mangefull informasjon skal skje? Skaper dette feil leveranse?
+- Påvirkning på resultat i målet, økonomi og tidsleveranse. Hva skjer dersom tar avgjørelse basert på feil eller mangefull informasjon skal skje? Skaper dette feil leveranse?
 - Hvilken risiko kan skje? Forsinkelser fordi må gjøre på nytt? Teknsik feil løsning? Ingen bruk av innbygere og politikere.
 
 4. Påvirkning og usikkerhet på målet, hva er nøvedig krav og ressurser må priotere for oppnå mål. Ranger forslag i må ha, bør ha, kan vente. 
