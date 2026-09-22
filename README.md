@@ -10,5 +10,6 @@ Vi lager en oppstartspakke for prosjektleder Erling, som skal lede utviklingen a
 * Knut Magnus Kvile
 * Hans-Eirik Bjørnstad Pettersen
 
-## Besvarelse
-[TRYKK](besvarelse.md)
+## Hurtiglink
+* [Besvarelse](besvarelse.md)
+* [Egenevaluering](Egenevaluering.md)
