@@ -11,5 +11,5 @@ Vi lager en oppstartspakke for prosjektleder Erling, som skal lede utviklingen a
 * Hans-Eirik Bjørnstad Pettersen
 
 ## Besvarelse
-[TRYKK](besvarelse.md)
-[TRYKK](Egenevaluering.md)
+[Besvarelse](besvarelse.md)
+[Egenevaluering](Egenevaluering.md)
