@@ -12,3 +12,4 @@ Vi lager en oppstartspakke for prosjektleder Erling, som skal lede utviklingen a
 
 ## Besvarelse
 [TRYKK](besvarelse.md)
+[TRYKK](Egenevaluering.md)
