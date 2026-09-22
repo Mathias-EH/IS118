@@ -25,8 +25,41 @@ Gjensidige forventninger bør også gå innad kontrakten mellom Erling og prosje
 For å oppsummere tror vi dette vil kunne bidra til et mer strukturert og forutsigbart samarbeid mellom Erling og prosjekteieren. Tydelig ansvar, gjensidige forventninger, faste møter og avtalte rutiner for endringer kan styrke tilliten, redusere misforståelser og være med på å skape en bedre relasjon mellom dem underveis i prosjektet. 
 
 ## 4. Konflikthåndtering
+Konflikter kan oppstå pågrunn av uengiheter i leveransen. Etabler faste møter for å diskutere leveransen sammen for sikre alle nøvendige personer er enig for sikre en felles besluttet leveranse. Del leveransen opp i flere mindre deler, hver delleveranse tildel et møte tidspunkt og inviter alle personer nøvendig for vurdere og godskjenne delleveranse. Etter møte dokumenter hva beslutning ble bekreftet ha med videre, send møte dokumentet til alle med i møte sikre er enig med beslutning før blir tatt med videre. 
+
+Definer en klar prosess for å håndtere uengiheter. Involverte håndteres med involverte først med fokus på fakta og målet i delleveransen. Hvis ikke klarer å håndtere konfliktet involveres støtte fra en mer erfaren person som kan hjelpe til å løse konflikter for bestemme endlig beslutning hva skal gjøres. 
+
+Tildel klare roller og ansvar for sikre ved uenigheter slik at den som har rollen har siste bekreftelsen for hva svaret blir pågrunn av sitt ansvar. Tildel rolle for hele prosjektet og i hver delleveranse. Rollen skal passe personen pålitlig og troverdig til levere. Definer tydligere rolle sitt ansvar med ha med følgene punkter: Hva vil ha, hva vil bruke, hva skal leveres, hvordan skal leveres, gjennomføring, følge opp. Eksempler på roller: Prosjektleder har ansvar for styre leveranse helt til avslutning og tar endelig beslutningen i hver delleveranse. Ux Ui designer ansvar for design og bruker vennlighet. Teknisk ansvarlig for gjennomføring. Bruker ansvar hva innbyggerne vil ha og bruke leveransen. 
+
+Sikre en felles forståelse for hva skal gjøre, hvordan skal gjøres for å unngå usikkerhet og mistillit. Ha en felles oppstart hvor alle er med forstå målet, delleveransen og ansvar sitt. Skriv ned på et felles sted alle har tilgang for neste skal gjøre nå. 
+
+Hold en workshop for å øve på konflikhåndtering. I starten eller under prosjektet, lag en fiktiv konflikt med usikkerhet, uenigheter i. Workshop deltagere skal løse konflikten med komme med en beslutning. Gi hverandre kritikk slik deltagere kan ta i mot forslag på forbedring. Etterpå lag en tilbakemelding på hvordan jobbet, hvordan håndtere konflikten, hvordan gjøre neste gang.
 
 ## 5. Tidspress og planleggingsfellen
+En samlet prosess for å håndtere tidspress og planleggingsfellen. Diskuter med nøvendige personer og bli enig om en felles beslutning om hva neste skal gjøres i planen.
+
+1. Kartlegg Først hva minimum skal ha krav, identifiser hva vet og hva mangler av bevis.
+- Eksempel på finne krav: Målet hva er det ene resultat må løse? Innbyggerbehov hva enklest forklart hva innbygere skal gjøre til slutt? Teknisk gjennomføring hva er enkleste sette i gang? Politisk støtte hva ønsker framtiden er for innbygerne i byen? Økonomi, kommunikasjon...
+
+2. Sette logisk rekkefølge fra start til slutt på gjøre A for få B. Definer årsak og effekt av hvordan har gjort og hva har fått som resultat. Status sammenligne med målet skulle ha, hva har funnet og hva er igjen usikkert ikke løst.
+- Eksempel på hva gjøre a for få til målet. Sikre en skritflig politisk støtte. Definer rolle og ansvar. Gjennomfør undersøkelse med innbygere. Lag enkle skisser innbyggere test å bruke. Enkel tekniske krav. Lag en bestilling skjema. Osv...
+
+3. Lag en grundig skjekk på hva vi har og mangler, hvor sikker er kunnskapskildene, hva er risikoen og konsekvens for oppnå mål med det har og ikke har.
+- Årsak til mangler hvorfor mangler informasjon er det tidspress, manglende kunnskap, manglene verktøy?
+- Kildekritikk og sikkert bevisgrunnlag, hva er kilden til gitt informasjon skal skje? Er det bevist? Høyt vi har bevis fra test skal ha. Middels lav bygger på ny antagelser eller utdatert erfaringer. 
+- Påvirkning på resultat i målet, økonomi og tidsleveranse. Hva skjer dersom tar avgjørelse basert på feil eller mangefull informasjon skal skje? Skaper dette feil leveranse?
+- Hvilken risiko kan skje? Forsinkelser fordi må gjøre på nytt? Teknsik feil løsning? Ingen bruk av innbygere og politikere.
+
+4. Påvirkning og usikkerhet på målet, hva er nøvedig krav og ressurser må priotere for oppnå mål. Ranger forslag i må ha, bør ha, kan vente. 
+- Må ha kritisk krav som absolutt nøvendig for skal ansess som en suksess. Hvis ikke levert så har ikke nådd målet. Må testes for løse får nøvendig informasjon stopper største risikoen.
+- Bør ha viktige elementer øker kvalitet, bedre hvis har men kan utsettes og ikke kritisk, men kan justere tiden tar å levere.
+- Kan vente liten risiko ikke avgjørende.
+  
+5. Ta analysen til konkret handling på hva neste skal gjøre nå. Kom med forslag på hva kan gjøre og ved endringer som kan påvirke kostnader, forlengelse av tid og kvalitet til slutt involver nøvendige personer for endelig bekreftelse hva neste skal gjøre nå. 
+- Redusere usikkerhet legg oppgave for hente nøvendig informasjon skal vite og teste antagelser. Eksempel tidlig testing med en prototype av løsning for innbygere for unngå kostand med kode feil løsning, følge opp arbeid hvor er til målet og finn risiko som gjøre ikke oppnår mål.
+- Minste løsning som løser kjerneproblemet og legg i krav. Eksempel enkel side. 
+- Bruker for lang tid på for å starte. Eksempel sett informasjon kun for å starte, lag et spørsmål vil ha svar på og hvordan skal svare og hvem skal gjøre også start. 
+- Sett av for levere med en tidsbegrensing for delleveranse ved å lage en 2 ukers plan forover og 30% ekstra tid for uforsette hendelser, istedenfor mange månders plan.
 
 ## 6. God kommunikasjon
 Opprette god kommunikasjon vil spille en sentral rolle for prosjektteamet sin effektivitet. Dette vil være synlig i forming fasen der man fortsatt etablerer kjennskap til de andre og prosjektetsmål. Erling bør derfor i denne forstand gjøre det tydelig om viktigheten av kommunikasjon som en arbeidsform tidlig. Informasjon bør leveres tydelig, tilgjengelig og forståelig for alle parter. 
